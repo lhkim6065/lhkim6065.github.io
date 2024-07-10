@@ -4,7 +4,6 @@ modal-id: 2
 img: washingtonpost.png
 alt: image-alt
 project-date: December 2023
-client: Start Bootstrap
-category: Web Development
+category: Data Analysis
 description: "[here](https://github.com/lhkim6065.github.io/img/portfolio/school.pdf)"
 ---

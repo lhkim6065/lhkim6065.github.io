@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: [here](img/portfolio/DATA 502 - An Analysis on School Shootings  (4).pdf)
+description: "[here](img/portfolio/DATA 502 - An Analysis on School Shootings  (4).pdf)"
 ---

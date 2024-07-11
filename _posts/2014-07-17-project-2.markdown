@@ -5,5 +5,5 @@ img: washingtonpost.png
 alt: image-alt
 project-date: December 2023
 category: Data Analysis
-description: <a href='/img/portfolio/school.pdf' target='_blank'>here</a>
+description: <a href='/img/portfolio/school.pdf' target='_blank'>A Plan to Keep Students Safe</a>
 ---

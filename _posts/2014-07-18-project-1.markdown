@@ -6,5 +6,5 @@ img: kickstarter.png
 alt: image-alt
 project-date: January 2024
 category: Data Exploration
-description: "For a final project, I tackled an extensive analysis on Kickstarter projects using Jonathan Leland's comprehensive dataset spanning from 2009 to 2020. This project allowed me to showcase my proficiency in data wrangling, exploratory data analysis, and statistical modeling within R Studio, while also enabling me to present compelling insights to a broad audience. Explore the detailed findings and analysis from my project here: <a href='https://rpubs.com/lhkim/Kickstarter_Data_Exploration')>R Pubs - Kickstarter Data Exploration</a>"
+description: "For a final project, I tackled an extensive analysis on Kickstarter projects using Jonathan Leland's comprehensive dataset spanning from 2009 to 2020. This project allowed me to showcase my proficiency in data wrangling, exploratory data analysis, and statistical modeling within R Studio, while also enabling me to present compelling insights to a broad audience. Explore the detailed findings and analysis from my project here: <a href='https://rpubs.com/lhkim/Kickstarter_Data_Exploration' target='_blank' >R Pubs - Kickstarter Data Exploration</a>"
 ---

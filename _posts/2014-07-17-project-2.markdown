@@ -5,5 +5,5 @@ img: washingtonpost.png
 alt: image-alt
 project-date: December 2023
 category: Data Analysis
-description: <a href='https://github.com/lhkim6065/lhkim6065.github.io/blob/24e4ce3d2ab9d4d3574245b280302d9651cb33e8/img/portfolio/school.pdf' target='_blank'>here</a>
+description: <a href='/img/portfolio/school.pdf' target='_blank'>here</a>
 ---

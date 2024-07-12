@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-img: washingtonpost.png
+img: washingtonpost1.png
 alt: image-alt
 project-date: December 2023
 category: Data Analysis

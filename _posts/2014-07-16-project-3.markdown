@@ -4,5 +4,6 @@ modal-id: 3
 img: tiktok.png
 alt: image-alt
 project-date: April 2024
+category: Machine Learning
 description: <a href='https://mybinder.org/v2/gh/lhkim6065/lhkim6065.github.io.git/HEAD?labpath=Python%2FModeling+Project.ipynb' target='_blank'>database</a>
 ---

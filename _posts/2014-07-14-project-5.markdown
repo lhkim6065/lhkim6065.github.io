@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-img: safe.png
+img: postgres.png
 alt: image-alt
 project-date: Mach 2024
 category: PostgreSQL

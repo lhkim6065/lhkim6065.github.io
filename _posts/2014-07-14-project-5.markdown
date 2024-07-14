@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The main objectives of this project was to create and manage a dataset using SQL. I demonstrated key database operations such as table creation with constraints, data import from CSV files, JOIN operations, data querying, and performing calculations while being able to explain my process to beginner and intermediate SQL learners. I was able to efficiently organize and analyze data from these practice datasets which enabled me to extract valuable insights. <a href='https://www.youtube.com/watch?v=MwxCgEfSYq8' target='_blank'>Books and Sales in PostgreSQL</a>
 ---

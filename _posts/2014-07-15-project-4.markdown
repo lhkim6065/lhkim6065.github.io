@@ -5,5 +5,5 @@ img: weathertraffic1.png
 alt: image-alt
 project-date: April 2024
 category: Data Engineering
-description: <a href='/img/portfolio/weathertraffic.pdf' target='_blank'>Weather & Traffic</a>
+description: Our project involved using APIs to scrape data from OpenWeather and TomTom based on specified parameters. We then automated the process of transferring the raw JSON data into our PostgreSQL database. Following this, we meticulously cleaned and formatted the datasets from both sources and integrated them to create specific endpoints tailored to address specific queries. While our API endpoints are currently inactive, we have provided screenshots that demonstrate the outputs they generated. We also conducted an analysis to explore whether rain affects traffic speeds, utilizing our dataset to create visualizations of our findings. This allowed us to examine the potential impact of weather conditions on traffic patterns with empirical data. See our project presentation here: <a href='/img/portfolio/weathertraffic.pdf' target='_blank'>Weather & Traffic</a>
 ---

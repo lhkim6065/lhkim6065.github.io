@@ -4,7 +4,7 @@ modal-id: 2
 img: washingtonpost1.png
 alt: image-alt
 project-date: December 2023
-category: Data Analysis
+category: Data Analysis and Visualization in R Studio
 description: >
   The Washington Post compiled a <a href='https://github.com/washingtonpost/data-school-shootings.git' target='_blank'>database</a> that includes reported incidents of various gunfire during school hours from 1999 to 2022. We cleaned, wrangled, and analyzed this database in R Studio to delve into the pressing issue that is school shootings. Key incidents highlighted include the tragic events at Robb Elementary School, Columbine High School, Sandy Hook Elementary School, and Marjory Stoneman Douglas High School. Our review emphasizes the role of mental health and highlights the alarming statistic that 78% of school shooters under 18 acquired their weapons from home. We concluded with a call to action for the promotion of safe storage laws to prevent unauthorized access to firearms. The presentation can be found here: <a href='/img/portfolio/school.pdf' target='_blank'>A Plan to Keep Students Safe</a>
 ---

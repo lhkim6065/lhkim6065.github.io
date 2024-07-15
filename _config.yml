@@ -40,8 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    #url: https://www.linkedin.com/in/leann-kim/
-    url:  <a href='https://www.linkedin.com/in/leann-kim/' target='_blank'/a>
+    url: https://www.linkedin.com/in/leann-kim/
 
 # Postal address (add as many lines as necessary)
 address:

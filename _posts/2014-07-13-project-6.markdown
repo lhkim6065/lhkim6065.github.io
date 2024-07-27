@@ -2,5 +2,5 @@
 layout: default
 img: more2.png
 alt: image-alt
-description: 
+description: You can expect to see more projects added to my portfolio by late 2024.
 ---

@@ -15,12 +15,6 @@ description: >
 
 <script>
 function downloadFile() {
-  const link = document.createElement('a');
-  link.href = 'https://raw.githubusercontent.com/lhkim6065/lhkim6065.github.io/main/Python/Modeling%20Project.ipynb';
-  link.download = 'Modeling_Project.ipynb';
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
+  window.location.href = 'https://raw.githubusercontent.com/lhkim6065/lhkim6065.github.io/main/Python/Modeling%20Project.ipynb';
 }
 </script>
-

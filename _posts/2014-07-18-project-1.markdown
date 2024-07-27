@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-01-29
-img: kickstarter1.png
+img: kickstarter2.png
 alt: image-alt
 project-date: January 2024
 category: Data Exploration and Statistical Modeling in R Studio

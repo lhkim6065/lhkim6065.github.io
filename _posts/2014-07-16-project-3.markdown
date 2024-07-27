@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: tiktok2.png
+img: tiktok3.png
 alt: image-alt
 project-date: April 2024
 category: Machine Learning in Python

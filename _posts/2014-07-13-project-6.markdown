@@ -5,5 +5,5 @@ img: books2.png
 alt: image-alt
 project-date: August 2024
 category: Data Science
-description: >
+description: Explore the detailed findings and analysis from my project here: <a href='https://wu-msds-capstones.github.io/student_loans_and_homeownership/#conclusions' target='_blank' >Generational Differences in Student Loan Debt and Implications on Homeownership Trends</a>"
 ---

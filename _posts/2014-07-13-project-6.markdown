@@ -1,6 +1,9 @@
 ---
 layout: default
-img: more2.png
+modal-id: 6
+img: books2.png
 alt: image-alt
-description: You can expect to see more projects added to my portfolio by late 2024.
+project-date: August 2024
+category: Data Science
+description: >
 ---

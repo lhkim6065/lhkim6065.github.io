@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 6
-img: kickstarter3.png
+img: Untitled design (3).png
 alt: image-alt
 project-date: August 2024
 category: MSDS Capstone
-description: "Explore the detailed findings and analysis from my project here: <a href='https://wu-msds-capstones.github.io/student_loans_and_homeownership/' target='_blank' >Generational Differences in Student Loan Debt and Implications on Homeownership Trends</a>"
+description: "Explore the detailed findings and analysis from my capstone project here: <a href='https://wu-msds-capstones.github.io/student_loans_and_homeownership/' target='_blank' >Generational Differences in Student Loan Debt and Implications on Homeownership Trends</a>"
 ---
